@@ -184,7 +184,8 @@
           "type": "accordion-item",
           "settings": {
             "accordion-title": "Lorem ipsum",
-            "accordion-subtitle": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "accordion-subtitle": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "accordion-image": "shopify:\/\/shop_images\/Screenshot_2021-10-11_at_19.10.09.png"
           }
         },
         "1648666966d7c901e4-1": {
