@@ -21,41 +21,42 @@ This task will test your ability to create, customize, and style a Shopify secti
     - An "Add to Cart" button
 3. Use Liquid to pull in real products from the Shopify store into these product blocks.
 4. Style this section according to the layout described below.
-5. Add a filter option to the section that enables visitors to filter the products based on their tags (use JavaScript for this).
+5. Add a filter option to the section that enables visitors to filter the products based on their tags (use JavaScript for this). Example tags on the store: `Bedroom`, `Garden`
+6. Add section on the bottom of Homepage.
 
 ### Layout Description
 #### Section
-- Full-width, padding 50px on all sides, background color: #F5F5F5.
+- Full-width, padding on all sides 50px for desktop and 10px on mobile, background color: #F5F5F5.
 
 #### Title
-- Center-aligned, 'Arial Black' or 'Helvetica Bold', font size: 32px, color: #000000.
+- Center-aligned, 'Arial Black' or 'Helvetica Bold', font size: 32px (desktop) 24px (mobile), color: #000000.
 
 #### Subtitle
-- Center-aligned, normal weight, font size: 24px, color: #333333.
+- Center-aligned, normal weight, font size: 24px (desktop) 18px (mobile), color: #333333.
 
 #### Product Grid
-- Grid or flexbox layout, three products per row, 20px gap between cells.
+- Grid or flexbox layout, three products per row, 20px (desktop) 10px (mobile) gap between cells.
 
 #### Each Product Block
-- Background color: #FFFFFF, border radius: 10px, padding: 15px, box shadow for depth.
+- Background color: #FFFFFF, border radius: 10px, padding: 15px (desktop) 10px (mobile), box shadow for depth.
 
 #### Product Image
 - Width: 100% of product block, height: auto, maintain aspect ratio.
 
 #### Product Name
-- Font size: 20px, color: #000000.
+- Font size: 20px (desktop) 16px (mobile), color: #000000.
 
 #### Product Description
-- Font size: 16px, color: #333333.
+- Font size: 16px (desktop) 14px (mobile), color: #333333.
 
 #### Product Price
-- Font size: 22px, color: #000080.
+- Font size: 22px (desktop) 16px (mobile), color: #000080.
 
 #### Add to Cart Button
 - Color: #008000, border radius: 5px, padding: 10px all around.
 
 #### Filter Option
-- Placed above the grid on the right, styled as a dropdown or checkboxes, font size: 18px.
+- Placed above the grid on the right, styled as a dropdown or checkboxes, font size: 18px (desktop) 14px (mobile).
 
 ## Task 2: React.js Knowledge (15 minutes)
 You'll answer a series of questions and provide a small piece of code.
