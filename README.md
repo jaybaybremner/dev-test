@@ -1,26 +1,77 @@
-# Blend Shopify Developer Test
+# Blend Commerce - Shopify Developer Interview Task
 
-## Software
-[Theme Kit](https://shopify.dev/themes/tools/theme-kit)
-or 
-[Shopify CLI](https://shopify.dev/themes/tools/cli)<br>
-If you are using Theme Kit please use ``--allow-live`` flag
+This interview consists of three tasks focused on Shopify Theme Development, React.js, and Git respectively. The tasks are designed to assess your knowledge of Shopify CLI, your ability to create, customize, and style a Shopify section, your understanding of React.js, and your familiarity with version control using Git.
 
-## Links
-- [Shop](https://blend-qa.myshopify.com/)
-- [Customize Theme](https://blend-qa.myshopify.com/admin/themes/127601475759/editor)
-- [Edit Code](https://blend-qa.myshopify.com/admin/themes/127601475759)
+## Required Tools
+- [Shopify CLI](https://shopify.dev/docs/themes/tools/cli)
+- Any code editor (we recommend VSCode)
 
-<br>Theme installed on the store is Shopify 2.0 compliant. 
+## Task 1: Shopify Theme Development (45 minutes)
+This task will test your ability to create, customize, and style a Shopify section. Using your knowledge of Liquid, HTML, CSS/SASS, and JavaScript, perform the following:
 
-# Test
-Create accordion section that will allow merchant add:
-- Section title
-- Section subtitle
-- Block with
-    - accordion title
-    - accordion text
-    - accordion image (optional)
+1. Create a new section called "Interactive Product Showcase."
+2. This section should allow the merchant to add the following:
+    - A title
+    - A subtitle
+    - A collection of products (at least three). Each product block should include:
+        - An image (from the product on Shopify)
+        - A name
+        - A description
+        - A price
+    - An "Add to Cart" button
+3. Use Liquid to pull in real products from the Shopify store into these product blocks.
+4. Style this section according to the layout described below.
+5. Add a filter option to the section that enables visitors to filter the products based on their tags (use JavaScript for this).
 
-Embed section on the homepage and style as image below:
-![Accordion](accordion.png)
+### Layout Description
+#### Section
+- Full-width, padding 50px on all sides, background color: #F5F5F5.
+
+#### Title
+- Center-aligned, 'Arial Black' or 'Helvetica Bold', font size: 32px, color: #000000.
+
+#### Subtitle
+- Center-aligned, normal weight, font size: 24px, color: #333333.
+
+#### Product Grid
+- Grid or flexbox layout, three products per row, 20px gap between cells.
+
+#### Each Product Block
+- Background color: #FFFFFF, border radius: 10px, padding: 15px, box shadow for depth.
+
+#### Product Image
+- Width: 100% of product block, height: auto, maintain aspect ratio.
+
+#### Product Name
+- Font size: 20px, color: #000000.
+
+#### Product Description
+- Font size: 16px, color: #333333.
+
+#### Product Price
+- Font size: 22px, color: #000080.
+
+#### Add to Cart Button
+- Color: #008000, border radius: 5px, padding: 10px all around.
+
+#### Filter Option
+- Placed above the grid on the right, styled as a dropdown or checkboxes, font size: 18px.
+
+## Task 2: React.js Knowledge (15 minutes)
+You'll answer a series of questions and provide a small piece of code.
+
+1. Explain the concept of virtual DOM in React.js and how it helps improve performance.
+2. What are React Hooks? Provide an example of a functional component that uses the useState and useEffect hooks.
+3. Write a small code showcasing a React component rendering a list of products. Each product should be an object with id, name, and price properties.
+
+## Task 3: Version Control (Git) (15 minutes)
+This task is focused on testing your understanding of GIT.
+
+1. Describe the process you would take to clone a create a new branch. You can use ready add-ons in your IDE.
+2. Describe how you commit changes to that branch. You can use ready add-ons in your IDE.
+
+Note: We're not looking for perfection in this task, we're more interested in your understanding and approach to the problem.
+
+## Time Total: 1 hour 15 minutes
+Please send the answers via email by discussed deadline.
+
