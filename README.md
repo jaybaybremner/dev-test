@@ -58,14 +58,7 @@ This task will test your ability to create, customize, and style a Shopify secti
 #### Filter Option
 - Placed above the grid on the right, styled as a dropdown or checkboxes, font size: 18px (desktop) 14px (mobile).
 
-## Task 2: React.js Knowledge (15 minutes)
-You'll answer a series of questions and provide a small piece of code.
-
-1. Explain the concept of virtual DOM in React.js and how it helps improve performance.
-2. What are React Hooks? Provide an example of a functional component that uses the useState and useEffect hooks.
-3. Write a small code showcasing a React component rendering a list of products. Each product should be an object with id, name, and price properties.
-
-## Task 3: Version Control (Git) (15 minutes)
+## Task 2: Version Control (Git) (15 minutes)
 This task is focused on testing your understanding of GIT.
 
 1. Describe the process you would take to clone a create a new branch. You can use ready add-ons in your IDE.
@@ -73,6 +66,6 @@ This task is focused on testing your understanding of GIT.
 
 Note: We're not looking for perfection in this task, we're more interested in your understanding and approach to the problem.
 
-## Time Total: 1 hour 15 minutes
+## Time Total: 1 hour
 Please send the answers via email by discussed deadline.
 
