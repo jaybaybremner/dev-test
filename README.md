@@ -26,34 +26,34 @@ This task will test your ability to create, customize, and style a Shopify secti
 
 ### Layout Description
 #### Section
-- Full-width, padding on all sides 50px for desktop and 10px on mobile, background color: #F5F5F5.
+- Full-width, padding on all sides 50px for desktop and 10px on mobile, background color: `#F5F5F5`.
 
 #### Title
-- Center-aligned, 'Arial Black' or 'Helvetica Bold', font size: 32px (desktop) 24px (mobile), color: #000000.
+- Center-aligned, `Arial Black` or `Helvetica Bold`, font size: 32px (desktop) 24px (mobile), color: #000000.
 
 #### Subtitle
-- Center-aligned, normal weight, font size: 24px (desktop) 18px (mobile), color: #333333.
+- Center-aligned, normal weight, font size: 24px (desktop) 18px (mobile), color: `#333333`.
 
 #### Product Grid
 - Grid or flexbox layout, three products per row, 20px (desktop) 10px (mobile) gap between cells.
 
 #### Each Product Block
-- Background color: #FFFFFF, border radius: 10px, padding: 15px (desktop) 10px (mobile), box shadow for depth.
+- Background color: `#FFFFFF`, border radius: 10px, padding: 15px (desktop) 10px (mobile), box shadow for depth.
 
 #### Product Image
 - Width: 100% of product block, height: auto, maintain aspect ratio.
 
 #### Product Name
-- Font size: 20px (desktop) 16px (mobile), color: #000000.
+- Font size: 20px (desktop) 16px (mobile), color: `#000000`.
 
 #### Product Description
-- Font size: 16px (desktop) 14px (mobile), color: #333333.
+- Font size: 16px (desktop) 14px (mobile), color: `#333333`.
 
 #### Product Price
-- Font size: 22px (desktop) 16px (mobile), color: #000080.
+- Font size: 22px (desktop) 16px (mobile), color: `#000080`.
 
 #### Add to Cart Button
-- Color: #008000, border radius: 5px, padding: 10px all around.
+- Color: `#008000`, border radius: 5px, padding: 10px all around.
 
 #### Filter Option
 - Placed above the grid on the right, styled as a dropdown or checkboxes, font size: 18px (desktop) 14px (mobile).
