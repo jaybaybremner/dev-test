@@ -44,35 +44,3 @@ You'll answer a series of questions and provide a small piece of code (if necess
 ## Time Total: 1 hour 15 minutes
 Please send the answers via email by discussed deadline.
 
-- Font size: 20px (desktop) 16px (mobile), color: `#000000`.
-
-#### Product Description
-- Font size: 16px (desktop) 14px (mobile), color: `#333333`.
-
-#### Product Price
-- Font size: 22px (desktop) 16px (mobile), color: `#000080`.
-
-#### Add to Cart Button
-- Color: `#008000`, border radius: 5px, padding: 10px all around.
-
-#### Filter Option
-- Placed above the grid on the right, styled as a dropdown or checkboxes, font size: 18px (desktop) 14px (mobile).
-
-## Task 2: React.js Knowledge (15 minutes)
-You'll answer a series of questions and provide a small piece of code.
-
-1. Explain the concept of virtual DOM in React.js and how it helps improve performance.
-2. What are React Hooks? Provide an example of a functional component that uses the useState and useEffect hooks.
-3. Write a small code showcasing a React component rendering a list of products. Each product should be an object with id, name, and price properties.
-
-## Task 3: Version Control (Git) (15 minutes)
-This task is focused on testing your understanding of GIT.
-
-1. Describe the process you would take to clone a create a new branch. You can use ready add-ons in your IDE.
-2. Describe how you commit changes to that branch. You can use ready add-ons in your IDE.
-
-Note: We're not looking for perfection in this task, we're more interested in your understanding and approach to the problem.
-
-## Time Total: 1 hour 15 minutes
-Please send the answers via email by discussed deadline.
-
